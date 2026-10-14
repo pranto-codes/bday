@@ -20,32 +20,32 @@ export const birthdayConfig = {
     "If you remember one thing today, let it be this: you are loved more than these little words can ever explain. Happy birthday, my favorite person.",
   photos: [
     {
-      src: "/public/images/IMG_20260218_170415.jpg",
+      src: "/images/IMG_20260218_170415.jpg",
       caption: "A little moment, a big memory",
       date: "One of my favorites",
     },
     {
-      src: "/public/images/1000657681.jpg",
+      src: "/images/1000657681.jpg",
       caption: "A little moment, a big memory",
       date: "One of my favorites",
     },
     {
-      src: "/public/images/1000657682.jpg",
+      src: "/images/1000657682.jpg",
       caption: "A little moment, a big memory",
       date: "One of my favorites",
     },
     {
-      src: "/public/images/1000657683.jpg",
+      src: "/images/1000657683.jpg",
       caption: "A little moment, a big memory",
       date: "One of my favorites",
     },
     {
-      src: "/public/images/IMG_20261013_161329.jpg",
+      src: "/images/IMG_20261013_161329.jpg",
       caption: "Your smile makes everything brighter",
       date: "A day worth keeping",
     },
     {
-      src: "/public/images/IMG_20261013_162452.jpg",
+      src: "/images/IMG_20261013_162452.jpg",
       caption: "More memories still to come",
       date: "Our story continues",
     },
